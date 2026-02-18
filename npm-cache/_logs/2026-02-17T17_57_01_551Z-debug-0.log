@@ -1,0 +1,16 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@11.8.0
+2 info using node@v24.12.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/adithyakrishnan/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm get prefix
+7 verbose argv "get" "prefix" "--global"
+8 verbose logfile logs-max:10 dir:/Users/adithyakrishnan/AdSense-Site/npm-cache/_logs/2026-02-17T17_57_01_551Z-
+9 verbose logfile /Users/adithyakrishnan/AdSense-Site/npm-cache/_logs/2026-02-17T17_57_01_551Z-debug-0.log
+10 verbose cwd /Users/adithyakrishnan/AdSense-Site
+11 verbose os Darwin 25.3.0
+12 verbose node v24.12.0
+13 verbose npm  v11.8.0
+14 verbose exit 0
+15 info ok
